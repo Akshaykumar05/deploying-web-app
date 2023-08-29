@@ -4,6 +4,9 @@ In this project the task is to deploying a web application on Amazon Web Service
 
 * Deploying a web application on AWS involves a combination of services to ensure security, scalability, and efficient deployment. Here's a step-by-step plan to set up the necessary AWS services to host and deploy the application securely:
 
+## Architecture
+![](https://d2908q01vomqb2.cloudfront.net/fe2ef495a1152561572949784c16bf23abb28057/2022/02/08/Architecture.png)
+
 ## Steps
 1. Step 1: Plan and Design
 * Before you start setting up AWS services, it's important to plan and design your architecture. Consider factors such as application scalability, availability, and security. In this plan, I'll assume a basic setup, but you can expand on it based on your specific requirements.
